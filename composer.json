@@ -1,0 +1,15 @@
+{
+    "name": "tascheduler/gtfs",
+    "authors": [
+        {
+            "name": "Miguel Lopez Ariza",
+            "email": "mlopez@transportationamerica.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
